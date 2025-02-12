@@ -118,7 +118,7 @@ analytics:
 # Site Author (왼쪽 사이트바에 들어가는 부분 같아)
 author:
   name             : "난! 규석이야" # "Your Name"
-  avatar           : # (프로필사진경로)path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.png" # (프로필사진경로)path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm just an ordinary programmer,<br> but I still have passion!" # 난 그냥 평범한 프로그래머지만, 아직 열정은 살아 있어!
   location         : "Republic of Korea" # 대한민국 "Somewhere" # 지역이래~
   email            :
